@@ -1,0 +1,42 @@
+{
+  "identifier": "kelpline",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Kelp Line Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "kelpline_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlocks a species checklist by coastline and photo attachments.",
+              "displayName": "Kelp Line Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "kelpline_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Kelp Line Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
